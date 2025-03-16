@@ -4,14 +4,14 @@ channels:
   - nodefaults
 dependencies:
   - python=3.9
-  - pystac-client==0.7.6
-  - odc-stac==0.3.9
+  - pystac-client
+  - odc-stac
   - jupyter
   - geopandas
-  - rioxarray==0.15.0
-  - rasterstats==0.19.0
+  - rioxarray
+  - rasterstats
   - hvplot
   - datashader
   - scikit-learn
-  - geoviews==1.11.1
+  - geoviews
   - planetary-computer
