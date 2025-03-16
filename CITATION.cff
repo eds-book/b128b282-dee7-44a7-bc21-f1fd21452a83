@@ -1,23 +1,37 @@
 cff-version: 1.2.0
-title: "Exploring Land Cover Data (Impact Observatory) (Jupyter Notebook) published in the Environmental Data Science book"
-message: "If you use this software, please cite it using the metadata from this file."
-type: software
+message: Please cite the following works when using this project.
+abstract: >-
+  Notebook developed to introduce manipulation and exploratory analysis of
+  classified land use and cover data, using example data created by Impact
+  Observatory from ESA Sentinel-2 imagery.
+title: >-
+  Exploring Land Cover Data (Impact Observatory) (Jupyter Notebook) published in
+  the Environmental Data Science book
 authors:
   - family-names: Millington
     given-names: James
-    website: https://github.com/jamesdamillington
-    orcid: 0000-0002-5099-0001
     affiliation: King's College London
-  - name: "This EDS book notebook contributors"
-    website: "https://github.com/eds-book-gallery/b128b282-dee7-44a7-bc21-f1fd21452a83/graphs/contributors"
-version: v1.0.6 # This is automatically set using the bumpversion tool.
+    orcid: 0000-0002-5099-0001
+    email: james.millington@kcl.ac.uk
+    website: https://github.com/jamesdamillington
+date-released: '2024-09-13'
+contact:
+  - family-names: Millington
+    given-names: James
+    affiliation: King's College London
+    orcid: 0000-0002-5099-0001
+    email: james.millington@kcl.ac.uk
+    website: https://github.com/jamesdamillington
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8311800
-    description: The concept DOI for the collection containing all versions of the notebook.
-abstract: "Notebook developed to introduce manipulation and exploratory analysis of classified land use and cover data, using example data created by Impact Observatory from ESA Sentinel-2 imagery."
 keywords:
-  - Environmental Data Science
-  - General
-  - Explore
-  - Land cover dataset
+  - environmental data science
+  - land
+  - exploration
+  - land cover dataset
+license: MIT
+license-url: https://opensource.org/license/MIT
+repository: https://github.com/eds-book/b128b282-dee7-44a7-bc21-f1fd21452a83
+type: software
+version: v2.0.0
