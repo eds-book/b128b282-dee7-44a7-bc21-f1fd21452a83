@@ -14,3 +14,4 @@ dependencies:
   - datashader
   - scikit-learn
   - geoviews==1.11.1
+  - planetary-computer
