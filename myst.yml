@@ -59,10 +59,10 @@ project:
       department: Environment & Sustainability
   subject: Land
   keywords:
-    - environmental data science
-    - land
-    - exploration
-    - land cover dataset
+    - Land
+    - Exploration
+    - Standard
+    - Python
   venue:
     title: Environmental Data Science Book
     short_title: EDS Book
