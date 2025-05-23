@@ -13,7 +13,6 @@ authors:
     affiliation: King's College London
     orcid: 0000-0002-5099-0001
     email: james.millington@kcl.ac.uk
-    website: https://github.com/jamesdamillington
 date-released: '2024-09-13'
 contact:
   - family-names: Millington
@@ -21,10 +20,10 @@ contact:
     affiliation: King's College London
     orcid: 0000-0002-5099-0001
     email: james.millington@kcl.ac.uk
-    website: https://github.com/jamesdamillington
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.8311800
+  - description: Open review report for this notebook
+    type: url
+    value: https://github.com/eds-book/b128b282-dee7-44a7-bc21-f1fd21452a83/pull/2
 keywords:
   - Land Use & Land Cover
   - Exploration
@@ -34,4 +33,4 @@ license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/b128b282-dee7-44a7-bc21-f1fd21452a83
 type: software
-version: v2.0.0
+version: v2025.05.0
