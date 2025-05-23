@@ -1,4 +1,4 @@
-# Exploring Land Cover Data<br>(Impact Observatory)
+# Exploring Land Cover Data (Impact Observatory)
 
 <p align="center">
     <a href="https://github.com/eds-book/b128b282-dee7-44a7-bc21-f1fd21452a83/actions/workflows/monthly-build.yaml/badge.svg">
