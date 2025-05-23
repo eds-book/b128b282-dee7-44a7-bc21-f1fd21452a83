@@ -13,7 +13,7 @@ project:
       orcid: 0000-0002-5099-0001
       corresponding: true
       email: james.millington@kcl.ac.uk
-      url: https://github.com/jamesdamillington
+      github: jamesdamillington
       roles:
         - Investigation
         - Software
@@ -24,7 +24,7 @@ project:
     - id: afouilloux
       name: Anne Fouilloux
       orcid: 0000-0002-1784-2920
-      url: https://github.com/annefou
+      github: annefou
       roles:
         - Writing – review & editing
       affiliations:
@@ -32,7 +32,7 @@ project:
     - id: adebus
       name: Amandine Debus
       orcid: 0009-0007-9018-9853
-      url: https://github.com/aedebus
+      github: aedebus
       roles:
         - Writing – review & editing
       affiliations:
@@ -41,7 +41,7 @@ project:
     - id: acoca
       name: Alejandro Coca-Castro
       orcid: 0000-0002-9264-1539
-      url: https://github.com/acocac
+      github: acocac
       roles:
         - Writing – review & editing
       affiliations:
